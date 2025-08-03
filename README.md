@@ -30,7 +30,7 @@ El focus està posat a maximitzar la **recall**, per tal de reduir el nombre de 
 - Estadístiques descriptives i gràfics de distribució  
 - Anàlisi de correlació
 
-## 🤖 Models i Mètodes
+## Models i Mètodes
 
 ### Regressió Logística
 - Simple i interpretable  
