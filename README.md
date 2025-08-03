@@ -23,7 +23,7 @@ El focus està posat a maximitzar la **recall**, per tal de reduir el nombre de 
 - **Variables:** Edat, sexe, colesterol, glucosa, IMC, pressió arterial, factors d’estil de vida, etc.  
 - **Variable objectiu:** Presència (`1`) o absència (`0`) de malaltia cardiovascular.
 
-## 🔍 Anàlisi Exploratori de Dades
+##  Anàlisi Exploratori de Dades
 
 - Detecció i filtratge d’outliers (eliminació d'observacions amb valors irrealistes)  
 - Eliminació de variables multicolineals (per exemple, alçada i pes en favor de l’IMC)  
@@ -47,7 +47,7 @@ El focus està posat a maximitzar la **recall**, per tal de reduir el nombre de 
 - Estratègia d’ajust similar a GBT  
 - Inclou també visualització de la importància de variables
 
-## 📈 Mètriques d’Avaluació
+##  Mètriques d’Avaluació
 
 Tots els models es van avaluar utilitzant:
 
@@ -62,7 +62,7 @@ Tots els models es van avaluar utilitzant:
 | Gradient Boosting   | 0.74     | 0.69     |
 | Random Forest       | 0.73     | 0.68     |
 
-## 🩺 Conclusions 
+##  Conclusions 
 
 - **Variables més rellevants:**  
   - Pressió arterial sistòlica alta  
@@ -72,14 +72,14 @@ Tots els models es van avaluar utilitzant:
 
 - La **Regressió Logística** va oferir els resultats més equilibrats i interpretables.
 
-## 📌 Treball Futur
+##  Treball Futur
 
 - Explorar més models (p. ex., xarxes neuronals o SVM)  
 - Incloure conjunts de dades externs amb perfils de risc més diversos  
 - Col·laborar amb professionals de la salut per a validació clínica  
 - Considerar el desplegament d’una eina web senzilla per a la predicció de risc
 
-## 🛠️ Tecnologia Utilitzada
+##  Tecnologia Utilitzada
 
 - Python 3  
 - scikit-learn  
@@ -87,10 +87,10 @@ Tots els models es van avaluar utilitzant:
 - SHAP (per explicabilitat)  
 - Jupyter Notebook
 
-## 👥 Autors
+##  Autors
 
 - Toni Esteve Gené  
 - Gloria Tarragona Ruiz  
-- Ainhoa Trillo Rodríguez  
-
-📅 Gener 2025 — Universitat Autònoma de Barcelona
+- Ainhoa Trillo Rodríguez
+  
+ Gener 2025 — Universitat Autònoma de Barcelona
