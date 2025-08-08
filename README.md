@@ -14,7 +14,9 @@ Apliquem i comparem tres algorismes d’aprenentatge supervisat:
 
 El focus està posat a maximitzar la **recall**, per tal de reduir el nombre de falsos negatius — identificant tants pacients en risc com sigui possible.
 
-## Conjunt de Dades
+## Conjunt de Dades 
+
+```cardio_data_processed.csv´´´
 
 - **Font:** [Kaggle - Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/colewelkins/cardiovascular-disease/data)  
 - **Font Original:** [UCI Machine Learning Repository - Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)  
